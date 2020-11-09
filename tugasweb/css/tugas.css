@@ -1,0 +1,17 @@
+form {
+	width: 600px;
+	margin: auto;
+}
+h1, h2 {
+	font-family: 'Grandstander', cursive;
+	padding: 30px;
+}
+body {
+	background-color: #ff82a1;
+}
+.container {
+	background-color: #ffe0e8;
+}
+.table {
+	background-color: #ff94b8;
+}
